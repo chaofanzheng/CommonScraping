@@ -1,0 +1,7 @@
+import sys,os,os.path
+import requests
+proxy_id = input()
+proxy_password = input()
+os.environ['HTTP_PROXY']=f"http://{}:{}@obprx01.intra.hitachi.co.jp:8080".format(proxy_id,proxy_password)
+os.environ['HTTPS_PROXY']=f"https://{}:{}@obprx01.intra.hitachi.co.jp:8080".format(proxy_id,proxy_password)
+requests.get('https://www.google.com/')
