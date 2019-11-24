@@ -1,0 +1,6 @@
+1、コードで検索して、株が消えた場合は、対応策を入れなければならない
+2、no such window: target window already closed
+3、取得したCSVの列が均一ではない、（0.00が混入）
+4、消えた株（4239、1865）https://kabu48.com/archives/8002
+5、seleniumがエラー後の対策（retry）
+  
