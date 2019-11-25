@@ -1,1 +1,1 @@
-pip install chromedriver-binary
+pip install chromedriver-binary==[chromeバージョン]

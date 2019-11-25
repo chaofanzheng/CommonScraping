@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 from nomura.login import NomuraHometradeAccess
 import requests
 
-nomuraHometradeAccess = NomuraHometradeAccess()
+nomuraHometradeAccess = NomuraHometradeAccess(model = '')
 nomuraHometradeAccess.login()
 
 

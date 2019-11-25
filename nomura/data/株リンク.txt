@@ -330,7 +330,6 @@ https://hometrade.nomura.co.jp/web/rmfInvInfMulGetG522Action.do?qid=12-01-01&op_
 https://hometrade.nomura.co.jp/web/rmfInvInfMulGetG522Action.do?qid=12-01-01&op_para=brand=1853,market=TKY
 https://hometrade.nomura.co.jp/web/rmfInvInfMulGetG522Action.do?qid=12-01-01&op_para=brand=1860,market=TKY
 https://hometrade.nomura.co.jp/web/rmfInvInfMulGetG522Action.do?qid=12-01-01&op_para=brand=1861,market=TKY
-https://hometrade.nomura.co.jp/web/rmfInvInfMulGetG522Action.do?qid=12-01-01&op_para=brand=1865,market=TKY
 https://hometrade.nomura.co.jp/web/rmfInvInfMulGetG522Action.do?qid=12-01-01&op_para=brand=1866,market=TKY
 https://hometrade.nomura.co.jp/web/rmfInvInfMulGetG522Action.do?qid=12-01-01&op_para=brand=1867,market=TKY
 https://hometrade.nomura.co.jp/web/rmfInvInfMulGetG522Action.do?qid=12-01-01&op_para=brand=1869,market=NGY
@@ -817,7 +816,8 @@ https://hometrade.nomura.co.jp/web/rmfInvInfMulGetG522Action.do?qid=12-01-01&op_
 https://hometrade.nomura.co.jp/web/rmfInvInfMulGetG522Action.do?qid=12-01-01&op_para=brand=2972,market=TKY
 https://hometrade.nomura.co.jp/web/rmfInvInfMulGetG522Action.do?qid=12-01-01&op_para=brand=2974,market=FKO
 https://hometrade.nomura.co.jp/web/rmfInvInfMulGetG522Action.do?qid=12-01-01&op_para=brand=2975,market=TKY
-https://hometrade.nomura.co.jp/web/rmfInvInfMulGetG522Action.do?qid=12-01-01&op_para=brand=2976,market=SPRhttps://hometrade.nomura.co.jp/web/rmfInvInfMulGetG522Action.do?qid=12-01-01&op_para=brand=2977,market=TKY
+https://hometrade.nomura.co.jp/web/rmfInvInfMulGetG522Action.do?qid=12-01-01&op_para=brand=2976,market=SPR
+https://hometrade.nomura.co.jp/web/rmfInvInfMulGetG522Action.do?qid=12-01-01&op_para=brand=2977,market=TKY
 https://hometrade.nomura.co.jp/web/rmfInvInfMulGetG522Action.do?qid=12-01-01&op_para=brand=2978,market=TKY
 https://hometrade.nomura.co.jp/web/rmfInvInfMulGetG522Action.do?qid=12-01-01&op_para=brand=3001,market=TKY
 https://hometrade.nomura.co.jp/web/rmfInvInfMulGetG522Action.do?qid=12-01-01&op_para=brand=3002,market=TKY
@@ -1396,7 +1396,8 @@ https://hometrade.nomura.co.jp/web/rmfInvInfMulGetG522Action.do?qid=12-01-01&op_
 https://hometrade.nomura.co.jp/web/rmfInvInfMulGetG522Action.do?qid=12-01-01&op_para=brand=3939,market=TKY
 https://hometrade.nomura.co.jp/web/rmfInvInfMulGetG522Action.do?qid=12-01-01&op_para=brand=3940,market=TKY
 https://hometrade.nomura.co.jp/web/rmfInvInfMulGetG522Action.do?qid=12-01-01&op_para=brand=3941,market=TKY
-https://hometrade.nomura.co.jp/web/rmfInvInfMulGetG522Action.do?qid=12-01-01&op_para=brand=3943,market=FKOhttps://hometrade.nomura.co.jp/web/rmfInvInfMulGetG522Action.do?qid=12-01-01&op_para=brand=3944,market=TKY
+https://hometrade.nomura.co.jp/web/rmfInvInfMulGetG522Action.do?qid=12-01-01&op_para=brand=3943,market=FKO
+https://hometrade.nomura.co.jp/web/rmfInvInfMulGetG522Action.do?qid=12-01-01&op_para=brand=3944,market=TKY
 https://hometrade.nomura.co.jp/web/rmfInvInfMulGetG522Action.do?qid=12-01-01&op_para=brand=3945,market=TKY
 https://hometrade.nomura.co.jp/web/rmfInvInfMulGetG522Action.do?qid=12-01-01&op_para=brand=3946,market=TKY
 https://hometrade.nomura.co.jp/web/rmfInvInfMulGetG522Action.do?qid=12-01-01&op_para=brand=3947,market=TKY
@@ -1520,7 +1521,6 @@ https://hometrade.nomura.co.jp/web/rmfInvInfMulGetG522Action.do?qid=12-01-01&op_
 https://hometrade.nomura.co.jp/web/rmfInvInfMulGetG522Action.do?qid=12-01-01&op_para=brand=4235,market=TKY
 https://hometrade.nomura.co.jp/web/rmfInvInfMulGetG522Action.do?qid=12-01-01&op_para=brand=4237,market=TKY
 https://hometrade.nomura.co.jp/web/rmfInvInfMulGetG522Action.do?qid=12-01-01&op_para=brand=4238,market=TKY
-https://hometrade.nomura.co.jp/web/rmfInvInfMulGetG522Action.do?qid=12-01-01&op_para=brand=4239,market=TKY
 https://hometrade.nomura.co.jp/web/rmfInvInfMulGetG522Action.do?qid=12-01-01&op_para=brand=4240,market=TKY
 https://hometrade.nomura.co.jp/web/rmfInvInfMulGetG522Action.do?qid=12-01-01&op_para=brand=4241,market=TKY
 https://hometrade.nomura.co.jp/web/rmfInvInfMulGetG522Action.do?qid=12-01-01&op_para=brand=4242,market=TKY
@@ -1575,7 +1575,8 @@ https://hometrade.nomura.co.jp/web/rmfInvInfMulGetG522Action.do?qid=12-01-01&op_
 https://hometrade.nomura.co.jp/web/rmfInvInfMulGetG522Action.do?qid=12-01-01&op_para=brand=4346,market=TKY
 https://hometrade.nomura.co.jp/web/rmfInvInfMulGetG522Action.do?qid=12-01-01&op_para=brand=4347,market=TKY
 https://hometrade.nomura.co.jp/web/rmfInvInfMulGetG522Action.do?qid=12-01-01&op_para=brand=4348,market=TKY
-https://hometrade.nomura.co.jp/web/rmfInvInfMulGetG522Action.do?qid=12-01-01&op_para=brand=4349,market=NGYhttps://hometrade.nomura.co.jp/web/rmfInvInfMulGetG522Action.do?qid=12-01-01&op_para=brand=4350,market=TKY
+https://hometrade.nomura.co.jp/web/rmfInvInfMulGetG522Action.do?qid=12-01-01&op_para=brand=4349,market=NGY
+https://hometrade.nomura.co.jp/web/rmfInvInfMulGetG522Action.do?qid=12-01-01&op_para=brand=4350,market=TKY
 https://hometrade.nomura.co.jp/web/rmfInvInfMulGetG522Action.do?qid=12-01-01&op_para=brand=4351,market=TKY
 https://hometrade.nomura.co.jp/web/rmfInvInfMulGetG522Action.do?qid=12-01-01&op_para=brand=4355,market=TKY
 https://hometrade.nomura.co.jp/web/rmfInvInfMulGetG522Action.do?qid=12-01-01&op_para=brand=4356,market=TKY
